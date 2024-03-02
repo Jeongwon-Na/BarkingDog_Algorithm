@@ -1,5 +1,0 @@
-﻿  ex1-1.cpp
-ex1-2.obj : error LNK2005: "int __cdecl func1(int)" (?func1@@YAHH@Z)이(가) ex1-1.obj에 이미 정의되어 있습니다.
-ex1-2.obj : error LNK2005: "void __cdecl test1(void)" (?test1@@YAXXZ)이(가) ex1-1.obj에 이미 정의되어 있습니다.
-ex1-2.obj : error LNK2005: main이(가) ex1-1.obj에 이미 정의되어 있습니다.
-C:\Users\Eori\source\repos\BarkingDog_Algorithm\x64\Debug\BarkingDog_Algorithm.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
